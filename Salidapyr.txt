@@ -1,0 +1,28 @@
+Comencemos este juego de preguntas y respuestas, con cada pregunta correcta sumaras
+10 puntos, cada vez que te equivoques en un pregunta restas 15 puntos, si te aburris
+y queres salir durante el juego escribi el numero 0
+Elija una de las siguientes tematicas colocando el numero de la elejida.
+Ingrese 1. Matematica..
+Ingrese 2. Cultura general..
+Ingrese 3. Geografia...
+Ingrese 4. Espectaculo..
+
+1
+
+Elegiste preguntas de matematicas
+1) ¿cuanto vale el numero PI <dos decimales>?
+3.14
+Correcto!
+Sumas un total de...10 puntos en matematicas.
+¿Continuamos? 1->Si 2->Cambiar Tematica 0->Ver resultado final y salir
+0
+Puntajes..:
+En Matematicas: 10
+En Cultura general:0
+En Geografia: 0
+En Espectaculo:0
+Puntaje total: 10
+Gracias por jugar.!
+---------------------------------------------------------------------
+Process exited after 11.59 seconds with return value 0 
+Presione una tecla para continuar...
